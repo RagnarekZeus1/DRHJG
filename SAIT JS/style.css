@@ -1,0 +1,16 @@
+h1{
+    font-weight: bold;
+    color:blue;
+}
+
+p{
+   font-size: 24px;
+   margin-bottom: 50px;
+   background-color: bisque;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+::selection {
+    color: brown;
+}
